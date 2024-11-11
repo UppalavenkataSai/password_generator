@@ -1,0 +1,18 @@
+step 1 :
+      >> python custom_wordlist_generator.py
+step 2 :
+
+      >> Enter the filename to save wordlist (e.g., custom_wordlist.txt): custom_wordlist.txt
+      >> Enter the characters to use (e.g., abc123): abc123
+      >> Enter the password length for combinations: 3
+      >> Wordlist generated and saved to custom_wordlist.txt
+
+After Entered User Input
+
+aaa
+aab
+aac
+...
+1c2
+1c3
+...
